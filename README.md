@@ -1,3 +1,5 @@
-# <span style="color: red;">Flamenco</span>
+```diff
+- Flamenco
+```
 
 En este repositorio encontrarás algunos artículos que he escrito sobre flamenco.
